@@ -9,4 +9,4 @@ https://github.com/Sergo448/LTC_1
 
 
 Ссылка на презентацию:
-
+https://docs.google.com/presentation/d/1RqXDk2AYN3Gwg5aJKgGrPDWrYUYKd3AP/edit#slide=id.g183f16342a8_1_678
